@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @LAKSHITSINGH0228
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ...flutter and WPF
-- 💞️ I’m looking to collaborate on ... Mobile App Development
+- 👋 Hi, I’m Lakshit Singh
+- 👀 I’m interested in coding only and working as Software Engineer - C# and WPF
+- 🌱 I’m currently learning ...Reactjs 
+- 💞️ I’m looking to collaborate on ... Web Development
 - 📫 How to reach me ...lakshitsingh0228@gmail.com
 
 <!---
